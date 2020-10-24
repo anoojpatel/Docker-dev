@@ -22,5 +22,5 @@ To start deleting things go [here](https://linuxize.com/post/how-to-remove-docke
 
 
 ## Contains the Dockerfile and subsequent scripts to install zsh themes
- - ~Note:~ On the first install, you will need to instantiate the `~/.zshrc` and set the theme.
+ - __Note:__ On the first install, you will need to instantiate the `~/.zshrc` and set the theme.
 ### 
